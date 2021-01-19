@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "mobile": "123",
+      "email": "asd@a",
+      "password": "asd",
+      "role": "admin",
+      "userName": "asd"
+    },
+    {
+      "role": "admin",
+      "userName": "qwe",
+      "email": "qwe@q",
+      "password": "qwe",
+      "mobile": "345",
+      "id": 2
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "SellRent": 2,
+      "Name": "",
+      "PType": "Дом",
+      "BHK": 2,
+      "FType": "Полный",
+      "Price": 12000,
+      "BuiltArea": 1200,
+      "Image": "https://astkt-photos-kr.kcdn.kz/webp/44/444f74e0-0f27-4117-a511-eb57a5626389/2-750x470.webp",
+      "Address": "Д.Хамитова 12",
+      "City": "Uralsk",
+      "Description": "Жилой дом, оснащена водой, газом, и светом. Есть все для удобства сануазель, баня, колодец"
+    },
+    {
+      "id": 2,
+      "SellRent": 2,
+      "Name": "",
+      "PType": "Квартира",
+      "BHK": 3,
+      "FType": "Нет мебели",
+      "Price": 5000,
+      "BuiltArea": 1200,
+      "Image": "",
+      "Address": "М.Маметова 4",
+      "City": "Aqtobe",
+      "Description": "Рядом находится Мега, также все необходимыые условия для проижвания"
+    },
+    {
+      "id": 3,
+      "SellRent": 1,
+      "Name": "",
+      "PType": "Квартира",
+      "BHK": 3,
+      "FType": "Полный",
+      "Price": 12000,
+      "BuiltArea": 1300,
+      "Image": "",
+      "Address": "А.Кунанбаева 45",
+      "City": "Nursultan",
+      "Description": "Для машины есть парковка, две кухни"
+    },
+    {
+      "id": 4,
+      "SellRent": 1,
+      "Name": "",
+      "PType": "Жилой дом",
+      "BHK": 4,
+      "FType": "Полу",
+      "Price": 5000,
+      "BuiltArea": 1200,
+      "Image": "",
+      "Address": "Амангелды 76",
+      "City": "Aksay",
+      "Description": "Для машины есть парковка, две кухни"
+    },
+    {
+      "id": 5,
+      "SellRent": 1,
+      "Name": "Новый район",
+      "PType": "Дом",
+      "BHK": 2,
+      "FType": "Полный",
+      "Price": 12000,
+      "BuiltArea": 1150,
+      "Image": "",
+      "Address": "Д.Хамитова 56",
+      "City": "Uralsk",
+      "Description": "Для машины есть парковка, две кухни, также большой и две спальни"
+    },
+    {
+      "id": 6,
+      "SellRent": 1,
+      "Name": "",
+      "PType": "Квартира",
+      "BHK": 1,
+      "FType": "Fully",
+      "Price": 5000,
+      "BuiltArea": 1200,
+      "Address": "У.Кылыышев 63",
+      "City": "Qostanai",
+      "Description": "Для машины есть парковка, две кухни, также большой и две спальни"
+    },
+    {
+      "SellRent": 1,
+      "BHK": 2,
+      "PType": "Дом",
+      "Name": "asd",
+      "City": "Pavlodar",
+      "FType": "Полностью",
+      "Price": "1234",
+      "BuiltArea": "123",
+      "Address": "123",
+      "id": 7
+    },
+    {
+      "SellRent": 2,
+      "BHK": 4,
+      "PType": "Многоэтажный",
+      "Name": "asd",
+      "City": "Pavlodar",
+      "FType": "Немеблированный",
+      "Price": "123",
+      "BuiltArea": "123",
+      "Address": "123",
+      "id": 8
+    }
+  ]
+}
